@@ -26,7 +26,7 @@ YouTube Link:<br><br>
 In this video we will take a look at the DuckDB Community Extension called DuckPGQ.<br><br>
 YouTube Link:<br><br>
 <a href="https://www.youtube.com/watch?v=wr9Yj7VBoTk">
-  <img src="https://i9.ytimg.com/vi/4kYGRwdmU30/mqdefault.jpg?v=68f67733&sqp=COiKncgG&rs=AOn4CLCpAFyYjKN-4gavpJtLX58edpjxdA" alt="geography" width="100" height="75">
+  <img src="https://i9.ytimg.com/vi/4kYGRwdmU30/mqdefault.jpg?v=68f67733&sqp=COiKncgG&rs=AOn4CLCpAFyYjKN-4gavpJtLX58edpjxdA" alt="duckpgq" width="100" height="75">
 </a>[Watch Video](https://www.youtube.com/watch?v=wr9Yj7VBoTk)
 
 ----
@@ -35,5 +35,5 @@ YouTube Link:<br><br>
 In this video we will take a look at the DuckDB Community Extension called Fakeit.<br><br>
 YouTube Link:<br><br>
 <a href="https://youtu.be/BisBmwn1aW0">
-  <img src="https://i9.ytimg.com/vi/4kYGRwdmU30/mqdefault.jpg?v=68f67733&sqp=COiKncgG&rs=AOn4CLCpAFyYjKN-4gavpJtLX58edpjxdA" alt="geography" width="100" height="75">
+  <img src="https://i9.ytimg.com/vi/4kYGRwdmU30/mqdefault.jpg?v=68f67733&sqp=COiKncgG&rs=AOn4CLCpAFyYjKN-4gavpJtLX58edpjxdA" alt="fakeit" width="100" height="75">
 </a>[Watch Video](https://youtu.be/BisBmwn1aW0)
